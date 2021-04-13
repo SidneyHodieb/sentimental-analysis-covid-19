@@ -1,2 +1,6 @@
 # sentimental-analysis-covid-19
-Mise en place d'un algorithme de classification non supervisé de machine learning pour détection de fraude -Exploration, néttoyage , formatage du dataset -Utilisation d'une métrique de corrélation pour déterminer les dépendances entre les variables -Application des alogrithmes LocalOutlierFactor  et Isolation forest sur les jeux de données et comparaion de précisoon de reussite : L'isolation Forest a un meilleur taux de réussite
+From textual data collected on twitter :
+-Data mining: Import, cleaning, formatting of tweets
+-Recovery of the most relevant data
+-Application of a machine learning algorithm: Vader sentiment analysis to analyze the text to bring out the sentiment hidden behind each word in the tweets
+-Elaboration of a diagram with plotly to visualize the negativity, neutrality, positivity of the tweets on a delimited period
